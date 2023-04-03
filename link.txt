@@ -1,3 +1,4 @@
 https://www.kaggle.com/datasets/balakrishcodes/others?select=Movie_regression.xls
 https://www.kaggle.com/code/aryantyagi19/movie-classification-eda-modeling
 https://www.kaggle.com/code/gaganmaahi224/movie-collection-prediction-using-linearregression#Feature-Selection
+https://www.kaggle.com/datasets/datascientistanna/customers-dataset
