@@ -1,0 +1,40 @@
+### Jenis data
+Berdasarkan Cara Pengumpulannya
+- `Data Primer`
+    Data yang didapat dari hasil pengumpulan dan pencarian sendiri (penelitian + pengumpulan sendiri)
+- `Data Skunder`
+    Data yang didapat dari link tertentu, misal data BPS, Kaggle, dll
+    
+Berdasarkan Sumbernya
+- `Data Internal`
+    Data milik perusahaan / industri sendiri
+- `Data Eksternal`
+    Data yang diperoleh dari instansi luar
+    
+Berdasarkan Sifatnya
+- `Data Kualitatif`
+    Data yang tidak bisa dihitung langsung (bukan berbentuk angka). Data ini bisa dilambangkan dalam bentuk verbal, gambar, teks, simbol, dan sebagainya.
+- `Data Kuantitatif`
+    Data kuantitatif adalah **jenis data** yang terdiri dari angka atau numerik dalam bentuk bilangan.
+
+Berdasarkan Waktu Pengumpulannya
+- `Data Cross Section`
+    Satu waktu banyak variabel
+- `Data Time Series`
+    Banyak waktu, satu variabel
+- `Data Gabungan (Cross Section + Time Series)`
+    Gabungan (banyak waktu + banyak variabel)
+
+### Tipe data
+1. Angka / Numeric = Integer, Float, dan Double
+2. Teks = String dan Karakter (1 karakter aja)
+3. Logika = Boolean
+4. Tanggal Waktu = Date, Time, Datetime
+5. Struktur = Array, Object
+6. Lainnya = Null
+
+### 4 Tipe data dalam Statistika
+1. Nominal = Pria/Wanita, Lajang/Menikah/Cerai > gaada urutannya
+2. Ordinal = SD, SMP, SMA > ada urutannya
+3. Interval = Suhu 20C (urutannya ada artinya) 0 gaada artinya
+4. Rasio = Berat badan
