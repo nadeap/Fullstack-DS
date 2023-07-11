@@ -69,3 +69,5 @@ IQR = Q3 - Q1
 lower_bound = Q1 - 1.5 * IQR
 upper_bound = Q3 + 1.5 * IQR
 filtered_data = data[(data['A'] >= lower_bound) & (data['A'] <= upper_bound)]
+
+#Transformasi Data
